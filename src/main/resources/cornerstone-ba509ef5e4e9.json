@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cornerstone-school",
+  "private_key_id": "ba509ef5e4e944503d87f934bed7bf62416737cf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCj6hxR6Tabzabz\nj1ZjdYUK2BVQGe9HuZEENAAU3BpBRUgLMb4dXYBZX+IX7nn/Gahhm+s+z9UMW2v2\nD29CsuOa/PtM2oAsDQve7OnASUY/SEZV1z1KFB/mgQg6mEscDtwN6ITTbCH3OhE7\nZn4SW2WKjK5sM5QYFNWvML/ffAmjAoo/3TDsz/QJ+rLT+psGvVwKulIi/w8fve9O\nOh7fM8IRMKxh+1fYy1U78vvga3ozcxv+1pMZzDKZAoezaUPPqjwZs7r456ONz0gx\nMCuqhdxq3bEUCqH3eai3VR5fdJZbcxN9IB+QzEMpKT1xlQq8Et6tFmFLhLiRSDAb\nWEqbtRm1AgMBAAECggEAEUrnhfS2oCVIEbXzhTamvIgjZ3n09norRGhAAfNeibhH\na3bp+asdmVA2SBQOps0MKJAMd2nxrgYPE7x5Hm5E+NrroCYFE6CkufYAixqv4Ik9\nclzsyF3rJ6RBO/1JH0KqEIWRTcTAqJZlrwCXGFSwF7fTxvKCEzBPgtX/yBIL6jh1\nDCB0oSBkAKr1T5rUmzal592TsUYPiFsQP889wWMs5EjocA74NeHfKDD+uFIVRdH7\n7qOQWE0CMtDpXybMOwiWHBncAJVc+4O7iJLT3deYTxYqyCYpqzMwnxlH5iicMwEl\nCzTaKCmAMfLucJH883BZu/+3ktcUtlMEm8HRxvZkwQKBgQDcCRLN4y/tI1UvwgtE\nboMEoIwp8Nf1RZwjGrMdoZm8/fUxhvkG+d9I2jTtUxbYA76Hr+yzH2RaruRuW0Rp\nP1iy3iIbmbSlCAa3DnC7lrCCjicpYUSLB4xl7cXV77muCMIlz7S0veY2BhB1O/yE\nDTPKH/66ph9yPBDXA3oXpROdTQKBgQC+tMXEgaBt8WwyLwhJQ3cY5TNuXcdlJfCa\ns6hFRZCa1F565M5SLBT2A/xzER1Uzg6157Ptm91FvbgMKR0/zMoNK0dFFdYl9cxz\n8pmnl5fOxBwimtHe5ygjrK7K3Sk7kox+JCE9d07lig/0ldkxGXWDBlY9xFNL6Ko+\nQen9ndXaCQKBgFlvXrNM2pgaum9VAdtox9xDnXUWrdDF4HbsTU2H98M3vkfJQsMx\nIS6tcsHb+fcHXpQsT5tm8RVi7PpmImJdGyJo45gwW5qQrpoNRokY8NnACe7p2EBi\naxCrGrSgYep5KODRkfO9FCt1P49HOJY7/4byhkk7aKC4BWg/w4qE0HopAoGALB01\nAlfZ/JS0KoemqwvoKOIcG5Ol5Ef6eE7Gxf9pi+dEU7lJ4MhBsQcLBrMWzd88l+eZ\nP4WmkdNpF6cLFQ8STimMuvZqKy3ItamQ0avHehTzTS3zDlT6fAYeCN9QAm/MAAHr\njoRiw8ZEGpfvPeRdwolcub0IZ67ScsRclEZGicECgYEAoxf50XN/VArmTXxCEe69\nN2n+GC1TWzZ6tUI7Lc917sREBYzXYnHDvhAStY2UdItdjzzoA8bEXm8g/uxycSbs\nCxBVLBXtwQKuMzJyACFy6JjzuS6oC8fhTiyAcVHc5Hi6MuV6PtHwwAvouTaikiSG\nZ+nrF5hW5H1TcZm12o9x3po=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cornerstone-version1@cornerstone-school.iam.gserviceaccount.com",
+  "client_id": "115179255534931600659",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cornerstone-version1%40cornerstone-school.iam.gserviceaccount.com"
+}
